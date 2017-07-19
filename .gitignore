@@ -1,0 +1,8 @@
+__pycache__
+cityhash_test
+*.txt
+env/
+*~
+*.lock
+*#
+*.exe
