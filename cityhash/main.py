@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 from cityhash import CityHash128 as ch
 
 # open file and hash each line
